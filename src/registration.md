@@ -18,6 +18,8 @@ State Government:
 State Government:
 - may determine fees and conditions
 
+## Registration
+
 ### Sec. 58 - Application for registration
 
 contents of statement:
