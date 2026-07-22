@@ -1,18 +1,26 @@
 ## Powers of State Government
 
-Sec. 56
-  : can give exemption from the provisions of this Act
-  : fully or any part of state
-  : by notification in the Official Gazette
+### Sec. 56 - Exemption from the Act
 
-Sec. 57
-  : appoints register of firms &
-  : define the area within which they exercise their power and perform their duties
+State Government:
+- can give exemption from the provisions of this Act
+- fully or any part of state
+- by notification in the Official Gazette
+
+### Sec. 57 - Registrars of the Firm
+
+State Government:
+- appoints register of firms &
+- define the area within which they exercise their power and perform their duties
     
-Sec. 71
-  : may determine fees and conditions
+Sec. 71 - Determination of fees
+
+State Government:
+- may determine fees and conditions
 
 ## Sec. 58 - Application for registration
+
+contents of statement:
 
 1. Name of the firm
 2. Place, or principal place of the business
