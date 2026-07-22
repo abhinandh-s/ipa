@@ -1,3 +1,3 @@
 # Summary
 
-- [Introduction](intro.md)
+- [Registration](registration.md)
