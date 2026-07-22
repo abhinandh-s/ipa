@@ -69,10 +69,10 @@ Should give notice to Registrar. Failing to do so withing 6 months will make him
 Any of the above recorded/notes in the Register of Firms
 
 - is open to all
-     - 66 - pay fee + ?conditions[^sg_conditions] - inspect
-     - 67 - application + fee - will get certified copy of any entry or portion
-- 68 - becomes conclusive proof of facts
-- 70 - any person who signs any of the above said documents in fraudulent[^fraud] manner.
+     - **Sec. 66** - pay fee + ?conditions[^sg_conditions] - inspect
+     - **Sec. 67** - application + fee - will get certified copy of any entry or portion
+- **Sec. 68** - becomes conclusive proof of facts
+- **Sec. 70** - any person who signs any of the above said documents in fraudulent[^fraud] manner.
      - imprisonment up to 3 months OR
      - fine OR
      - both
