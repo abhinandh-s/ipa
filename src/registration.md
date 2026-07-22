@@ -13,12 +13,12 @@ State Government:
 - appoints register of firms &
 - define the area within which they exercise their power and perform their duties
     
-Sec. 71 - Determination of fees
+### Sec. 71 - Determination of fees
 
 State Government:
 - may determine fees and conditions
 
-## Sec. 58 - Application for registration
+### Sec. 58 - Application for registration
 
 contents of statement:
 
@@ -34,7 +34,7 @@ Signed and verified by all the partner/agent.
 
 [^firm_name]: name must not contain any word expressing or implying the sanction or approval or patronage of Government, unless State Government gives consent by order in writing.
 
-**Sec. 59**
+### Sec. 59 - Registrars duty on receiving statement
 
 On receiving the statement, if satisfied with the provisions of sec 58, the Registrar 
 1. Record an entry of the statement in the Register of Firms
