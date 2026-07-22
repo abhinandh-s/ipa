@@ -1,4 +1,4 @@
-# Abhi's Guide to Git
+# Abhi's Guide to Indian Partnership Act, 1932
 
 This is not a book on its own. It's rather a supplementary to CMA study material, which I wrote to ease up the reading. My main goal is to present the Act in a consise yet didn't lost any crux format.
 
