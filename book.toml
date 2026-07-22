@@ -2,9 +2,9 @@
 authors = ["Abhinandh S"]
 language = "en"
 src = "src"
-title = "Abhi's guide to ..."
+title = "Abhi's guide to Indian Partnership Act, 1932"
 
 [output.html]
-site-url = "/mdbook-minimal/"
+site-url = "/ipa/"
 additional-css = ["extras/css/comment-box.css"]
 additional-js = ["extras/js/comment-box.js"]
