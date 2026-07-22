@@ -62,6 +62,8 @@ when a minor who has been admitted to the benefits of the partnership firm, atta
 Should give notice to Registrar. Failing to do so withing 6 months will make him a partner.
 %% there is one more rule here %%
 
+### Sec. 66–68 and 70 - effects of registration
+
 **From sec 58 - 63, we talked about statement, amending statement, notice, and intimation.**
 
 Any of the above recorded/notes in the Register of Firms
@@ -79,10 +81,10 @@ Any of the above recorded/notes in the Register of Firms
 
 [^fraud]: Contains any particular, which he knows to be false or does not believe to be true, or containing particular which he knows to be incomplete or does not believe to be complete
 
-sec 69 - effects of non registration
+### Sec. 69 - effects of non registration
 
 
-sec. 72 - mode of giving public notice
+### Sec. 72 - mode of giving public notice
 
 Wherever the act says to give public notice, it means publication -
 1. in the Official Gazette and
