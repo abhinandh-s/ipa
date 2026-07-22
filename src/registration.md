@@ -40,7 +40,7 @@ On receiving the statement, if satisfied with the provisions of sec 58, the Regi
 1. Record an entry of the statement in the Register of Firms
 2. File the statement
 
-### Alterations in Register of Firms
+## Sec. 60–65 - Alterations in Register of Firms
 
 On satisfying relevant provision Registrar will amend the entry & files the statement/intimation.
 
