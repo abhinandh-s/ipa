@@ -96,6 +96,7 @@ but if it is regarding -
  - to notify the status of minor after attaining majority
  
 We have to do one more thing
+
 3. Notice to the Registrar of Firms
 
 [^newspaper]: Newspaper circulating in the district where the firm, to which it relates, has its place or principal place of business;
