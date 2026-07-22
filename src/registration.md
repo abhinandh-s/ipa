@@ -12,7 +12,7 @@ Sec. 57
 Sec. 71
   : may determine fees and conditions
 
-## Application
+## Application for registration - Sec. 58
 
 1. Name of the firm
 2. Place, or principal place of the business
