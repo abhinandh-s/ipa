@@ -66,7 +66,7 @@ Should give notice to Registrar. Failing to do so withing 6 months will make him
 
 **From sec 58 - 63, we talked about statement, amending statement, notice, and intimation.**
 
-Any of the above recorded/notes in the Register of Firms
+Any of the above document recorded/noted in the Register of Firms
 
 - is open to all
      - **Sec. 66** - pay fee + ?conditions[^sg_conditions] - inspect
