@@ -1,6 +1,7 @@
-### Powers of State Government
+# Powers of State Government
 
-Sec. 56
+## Sec. 56
+
     - State Government can give exemption from the provisions of this Act
     - fully or any part of state
     - by notification in the Official Gazette
