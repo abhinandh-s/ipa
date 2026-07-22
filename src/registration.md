@@ -12,22 +12,25 @@ Sec. 57
 Sec. 71
   : may determine fees and conditions
 
-## Application for registration - Sec. 58
+## Sec. 58 - Application for registration
 
 1. Name of the firm
 2. Place, or principal place of the business
-3. Name of any other place where the firm carries on business
+3. Name[^firm_name] of any other place where the firm carries on business
 4. Date when each partner joined
 5. Full name & permanent address of the partners
 6. duration
 
 Signed and verified by all the partner/agent.
 
+
+[^firm_name]: name must not contain any word expressing or implying the sanction or approval or patronage of Government, unless State Government gives consent by order in writing.
+
+**Sec. 59**
+
 On receiving the statement, if satisfied with the provisions of sec 58, the Registrar 
 1. Record an entry of the statement in the Register of Firms
 2. File the statement
-
-- name must not contain any word expressing or implying the sanction or approval or patronage of Government, unless State Government gives consent by order in writing.
 
 ### Alterations in Register of Firms
 
