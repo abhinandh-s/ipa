@@ -10,8 +10,5 @@ Email: <abhinandhsuby@proton.me>
 ---
 
 
-<!-- ![The brainmade.org Logo](images/brain-made.svg) fill=currentColor won't work with this -->
-<object type="image/svg+xml" data="images/brain-made.svg" class="theme-logo"></object>
-
-
+![The brainmade.org Logo](images/brain-made.svg)
 
