@@ -2,7 +2,7 @@
 
 ### Sec. 36
 
-An outgoing partner has the freedom to start a new business which compete with his previous firm.
+An outgoing partner has the freedom to start a new business which competes with his previous firm.
 
 But He Can't[^default]:
 - use previous firms name
