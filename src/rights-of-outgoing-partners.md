@@ -9,9 +9,6 @@ But He Can't[^default]:
 - Represent himself as carrying on the business of the previous firm
 - Cheat[^solicit] with previous firms customers/persons who they were dealing with
 
-[^solicit]: Well, the correct word here is solicit, which means persuasion. Its synonyms are tempt/request/offer/hook, etc,. 
-[^default]: This are terms in case of no contract in between outgoing partners and other partners. That is, with a contract all this terms can be changed.
-
 ### Sec. 37
 
 Where a partner had died or cease to be a partner, other partners may continue to carry on the business **without any final settlement** between them and the outgoing partner/representative of the deseased.
@@ -37,3 +34,10 @@ In case there were a contract between partners, which gives the remaining partne
 > **Why this rule exists?**
 >  
 > It prevents continuing partners from endlessly delaying the settlement of accounts while using a former partner's capital for free.
+
+
+# Footnotes
+
+[^solicit]: Well, the correct word here is solicit, which means persuasion. Its synonyms are tempt/request/offer/hook, etc,.
+
+[^default]: This are terms in case of no contract in between outgoing partners and other partners. That is, with a contract all this terms can be changed.
