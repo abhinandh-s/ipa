@@ -17,11 +17,11 @@ In such case, the outgoing partner or the representative of the deceased have 2 
 
 1. Share of profit from the day he ceased to be a partner
 
-$$\text{Outgoing Partner's Profit Share} = \text{Net Profit Earned} \times \left( \frac{\text{Outgoing Partner's Unsettled Capital}}{\text{Total Capital of the Firm}} \right) \times \left( \frac{\text{days since he ceased to be a partner}}{\text{365}} \right)$$
+$$\text{Outgoing Partner's Profit Share} = \text{Net Profit Earned} \times \left( \frac{\text{Outgoing Partner's Unsettled Capital}}{\text{Total Capital of the Firm}} \right)$$
 
 2. Interest at 6% p.a. (treated like a loan or advance.)
 
-$$\text{Outgoing Partner's Interest Amount} = \text{Outgoing Partner's Unsettled Capital} \times \text{6\%}  \times \left( \frac{\text{days since he ceased to be a partner}}{\text{365}} \right)$$
+$$\text{Outgoing Partner's Interest Amount} = \text{Outgoing Partner's Unsettled Capital} \times \text{6\%} \right)$$
  
 #### Exception
 
