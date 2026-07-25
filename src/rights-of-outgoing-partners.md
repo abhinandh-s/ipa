@@ -35,4 +35,5 @@ In case there were a contract between partners, which gives the remaining partne
 
 > [!NOTE]
 > **Why this rule exists?**
+>  
 > It prevents continuing partners from endlessly delaying the settlement of accounts while using a former partner's capital for free.
