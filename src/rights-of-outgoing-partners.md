@@ -35,8 +35,9 @@ In case there were a contract between partners, which gives the remaining partne
 >  
 > It prevents continuing partners from endlessly delaying the settlement of accounts while using a former partner's capital for free.
 
+---
 
-# Footnotes
+**Footnotes**
 
 [^solicit]: Well, the correct word here is solicit, which means persuasion. Its synonyms are tempt/request/offer/hook, etc,.
 
