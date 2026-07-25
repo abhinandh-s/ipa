@@ -19,6 +19,7 @@ Where a partner had died or cease to be a partner, other partners may continue t
 In such case, the outgoing partner or the representative of the deseased have 2 options(unless there is an agreement regarding this matter):
 
 1. Share of profit from the day he ceased to be a partner
+
 $$\text{Outgoing Partner's Profit Share} = \text{Net Profit Earned} \times \left( \frac{\text{Outgoing Partner's Unsettled Capital}}{\text{Total Capital of the Firm}} \right) \times \left( \frac{\text{days since he ceased to be a partner}}{\text{365}} \right)$$
 
 2. Interest at 6% p.a. Treated like a loan or advance.
