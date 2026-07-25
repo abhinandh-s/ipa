@@ -6,8 +6,8 @@ An outgoing partner has the freedom to start a new business which compete with h
 
 But He Can't[^default]:
 - use previous firms name
-- Represent himself as carrying on the business of the previous firm
-- Cheat[^solicit] with previous firms customers/persons who they were dealing with
+- represent himself as carrying on the business of the previous firm
+- soliciting[^solicit] with previous firms customers/persons who they were dealing with
 
 ### Sec. 37
 
