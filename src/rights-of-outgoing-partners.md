@@ -26,15 +26,13 @@ $$\text{Outgoing Partner's Profit Share} = \text{Net Profit Earned} \times \left
 
 $$\text{Outgoing Partner's Interest Amount} = \text{Outgoing Partner's Unsettled Capital} \times \text{6\%}  \times \left( \frac{\text{days since he ceased to be a partner}}{\text{365}} \right)$$
  
-
-> [!NOTE]
-> **Why this rule exists?**
-> It prevents continuing partners from endlessly delaying the settlement of accounts while using a former partner's capital for free.
-
-
 #### Exception
 
 In case there were a contract between partners, which gives the remaining partners an option to buy out the outgoing/deseased partners share. 
 
 - if such option is exercised - the outgoing partner or represent can't claim the share of profit or 6% interest said above anymore.
 - not exercised/failed to pay on schedule/didn't follow the agreed terms - can claim the share of profit or 6% interest said above.
+
+> [!NOTE]
+> **Why this rule exists?**
+> It prevents continuing partners from endlessly delaying the settlement of accounts while using a former partner's capital for free.
