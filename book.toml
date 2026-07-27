@@ -7,8 +7,14 @@ title = "Abhi's guide to Indian Partnership Act, 1932"
 [output.html]
 site-url = "/ipa/"
 mathjax-support = true
-additional-css = ["extras/css/comment-box.css"]
-additional-js = ["extras/js/comment-box.js"]
+additional-css = [
+  "extras/css/comment-box.css",
+  "extras/css/custom-callouts.css"
+]
+additional-js = [
+  "extras/js/comment-box.js",
+  "extras/js/custom-callouts.js"
+]
 
 [output.html.print]
 enable = true    # include support for printable output
