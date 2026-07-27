@@ -5,7 +5,7 @@ This is not a book on its own. It's rather a supplementary to CMA study material
 Please keep in mind that I'm only human and there is a very, very high probability that there are errors in this guide. Additionally, I might simply not know what I'm talking about when it comes to something! So email corrections are highly appreciated!
 
 
-Email: <abhinandhsuby@proton.me>
+<i class="fa-solid fa-envelope"></i> Email: <abhinandhsuby@proton.me>
 
 ---
 
