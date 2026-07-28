@@ -1,8 +1,10 @@
 # Introduction
 
+
+![Types of Partnership](./assets/types-of-partnership.png)
+
+
 ### Types of Partners
-
-
 
 
 | Type              | Contributes Capital | Takes parts in Mngt. | Known to public | Liability                     | Special Point                              |
