@@ -4,10 +4,10 @@ To know
 1. Whether a group of persons <i class="fa-solid fa-people-group"></i> is or is not a firm; OR
 2. Whether a person <i class="fa-solid fa-person"></i> is or is not a partner in a firm.
 
-Look at the real intentions of the parties, based on all facts, not just what's on the paper or what a single factor suggests.
+Look at the **real intentions** of the parties, based on all facts, not just what's on the paper or what a single factor suggests.
 
 > [!IMPORTANT]
-> Sharing of profits/gross returns alone does not make them partners. The ultimate test is Mutual Agency (acts of one partner bind the others).
+> Sharing of profits/gross returns alone does not make them partners. The ultimate test is **Mutual Agency** (acts of one partner bind the others).
 
 
 If a person receives
