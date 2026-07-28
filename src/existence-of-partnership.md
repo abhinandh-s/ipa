@@ -1,8 +1,8 @@
 ### Sec. 6 - Determination of Existence of Partnership
 
 To know 
-1. Whether a group of persons <i class="fa-solid fa-people-group"></i> is or is not a firm; OR
-2. Whether a person <i class="fa-solid fa-person"></i> is or is not a partner in a firm.
+1. Whether a group of persons <i class="fa-solid fa-people-group"></i> **is or is not** a firm; OR
+2. Whether a person <i class="fa-solid fa-person"></i> **is or is not** a partner in a firm.
 
 Look at the **real intentions** of the parties, based on all facts, not just what's on the paper or what a single factor suggests.
 
@@ -21,7 +21,7 @@ And in particular, a share of profit/payment received by -
 
 | received by                       | Form of                                                        |
 | --------------------------------- | -------------------------------------------------------------- |
-| lender                            | any form                                                       |
+| lender (to persons engaged or about to engage in any business)                             | any form                                                       |
 | servant/agent                     | remuneration                                                   |
 | widow/child of a deceased partner | annuity                                                        |
 | previous owner/part owner         | payment as consideration for the sale of the goodwill or share |
