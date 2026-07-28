@@ -8,3 +8,5 @@
   - [Rights of Outgoing Partners](rights-of-outgoing-partners.md)
 - [Minor Partner](minor-partner.md)
 - [Registration](registration.md)
+- [Reconstitution of Firm](reconstitution-of-firm.md)
+  - [Amalgamation](amalgamation-explained.png)
