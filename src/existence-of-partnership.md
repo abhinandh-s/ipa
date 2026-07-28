@@ -25,6 +25,8 @@ And in particular, a share of profit/payment received by -
 | servant/agent                     | remuneration                                                   |
 | widow/child of a deceased partner | annuity                                                        |
 | previous owner/part owner         | payment as consideration for the sale of the goodwill or share |
+
+
 …does not make the receiver a partner with the persons carrying on a business.
 
 
