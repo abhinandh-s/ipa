@@ -1,7 +1,32 @@
 # Introduction
 
 
+Partnership Types
+
+1. On the basis of Liability
+   - General Partnership
+   - Limited Partnership
+1. On the basis of Duration
+   - Partnership at will
+   - Particular Partnership
+
+
 ![Types of Partnership](./images/types-of-partnership.png)
+
+
+| Basis                  | General Partnership                                                                  | Limited Partnership                                                                                                                                  |
+| :--------------------- | :----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| governing act          | Indian Partnership act, 1932                                                         | Limited liability partnership Act, 2008                                                                                                              |
+| liability              | unlimited, except for minor partner (limited only to his share of capital and profit | will have at least **one** partner with unlimited liability **and** some partner with limited liability who won't be able to take part in management |
+| artificial person      | No                                                                                   | Yes                                                                                                                                                  |
+| mandatory registration | no                                                                                   | yes                                                                                                                                                  |
+
+| Basis                                               | Partnership at will                                                                                                                        | Particular Partnership                                                                                       |
+| :-------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+|                                                     | formed for an indefinite period                                                                                                            | Formed for a specific time period or a specific purpose                                                      |
+| Mentioned in agreement at the time of its formation | time period or purpose **is not** mentioned.                                                                                               | time period or purpose **is** mentioned.                                                                     |
+| dissolution                                         | depending upon the will of the partners, can be dissolved by any partner by giving notice to other partners on his desire to quit the firm | automatic dissolution on the expiry of the specific time period or on the completion of the specific purpose |
+
 
 
 ### Types of Partners
