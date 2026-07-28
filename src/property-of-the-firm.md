@@ -21,6 +21,7 @@ Includes:
 > #### Court Ruling
 >
 > the property belonging to a person **does not become** the property of the partnership merely because it is used for the business of the partnership.
+> 
 > It will become the property of the partnership only if there is an agreement, express or implied, that the property was, under the agreement of partnership, to be treated as the property of the partnership.
 
 
