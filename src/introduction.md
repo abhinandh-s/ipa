@@ -13,6 +13,7 @@ Partnership Types
 
 ![Types of Partnership](./images/types-of-partnership.png)
 
+### Difference between General Partnership and Limited Partnership
 
 | Basis                  | General Partnership                                                                  | Limited Partnership                                                                                                                                  |
 | :--------------------- | :----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +22,9 @@ Partnership Types
 | artificial person      | No                                                                                   | Yes                                                                                                                                                  |
 | mandatory registration | no                                                                                   | yes                                                                                                                                                  |
 
-| Basis                                               | Partnership at will                                                                                                                        | Particular Partnership                                                                                       |
+### Difference between Partnership at will and Particular Partnership
+
+| Basis                                               | Partnership at will (Sec. 7)                                                                                                                        | Particular Partnership (Sec. 8)                                                                                       |
 | :-------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 |                                                     | formed for an indefinite period                                                                                                            | Formed for a specific time period or a specific purpose                                                      |
 | Mentioned in agreement at the time of its formation | time period or purpose **is not** mentioned.                                                                                               | time period or purpose **is** mentioned.                                                                     |
