@@ -1,3 +1,3 @@
 # Amalgamation
 
-![Amalgamation Diagram](amalgamation-explained.png)
+![Amalgamation Diagram](./images/amalgamation-explained.png)
