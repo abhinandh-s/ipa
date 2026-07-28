@@ -9,4 +9,4 @@
 - [Minor Partner](minor-partner.md)
 - [Registration](registration.md)
 - [Reconstitution of Firm](reconstitution-of-firm.md)
-  - [Amalgamation](amalgamation-explained.png)
+  - [Amalgamation](amalgamation.md)
