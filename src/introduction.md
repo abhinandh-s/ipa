@@ -1,7 +1,7 @@
 # Introduction
 
 
-![Types of Partnership](./assets/types-of-partnership.png)
+![Types of Partnership](./images/types-of-partnership.png)
 
 
 ### Types of Partners
