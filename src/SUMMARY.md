@@ -9,4 +9,5 @@
 - [Minor Partner](minor-partner.md)
 - [Registration](registration.md)
 - [Reconstitution of Firm](reconstitution-of-firm.md)
+  - [Death of a Partner](death-of-a-partner.md)
   - [Amalgamation](amalgamation.md)
