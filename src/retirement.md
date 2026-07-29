@@ -11,4 +11,4 @@ A partner may get expelled by a majority -
 An expelled partner is treated as a retired partner. This means that the provisions applicable to a retired partner will also apply to the expelled partner.
 
 
-[^expulsion]: [meaning](https://duckduckgo.com/?q=expulsion+meaning): The act of expelling, example: got expelled from school for being a jerk.
+[^expulsion]: [**meaning**](https://duckduckgo.com/?q=expulsion+meaning): The act of expelling, **example:** got expelled from school for violating rules.
