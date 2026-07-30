@@ -22,8 +22,6 @@ State Government:
 
 ### Sec. 58 - Application for registration
 
-![Sec 58](./images/sec58.svg)
-
 contents of statement:
 
 1. Name of the firm
@@ -35,6 +33,7 @@ contents of statement:
 
 Signed and verified by all the partner/agent.
 
+![Sec 58](./images/sec58.svg)
 
 [^firm_name]: name must not contain any word expressing or implying the sanction or approval or patronage of Government, unless State Government gives consent by order in writing.
 
