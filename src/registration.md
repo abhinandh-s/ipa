@@ -22,6 +22,8 @@ State Government:
 
 ### Sec. 58 - Application for registration
 
+![Sec 58](./images/sec58.svg)
+
 contents of statement:
 
 1. Name of the firm
