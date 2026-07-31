@@ -12,3 +12,4 @@
   - [Retirement of an Existing Partner](retirement.md)
   - [Death of a Partner](death-of-a-partner.md)
   - [Amalgamation](amalgamation.md)
+- [Dissolution](dissolution.md)
