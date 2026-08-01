@@ -28,8 +28,8 @@ Grounds -
 1. All partners declared as insolvent[^insolvency]
 2. All partner except one[^min-two] declared as insolvent[^insolvency]
 3. On happening of an event that makes it illegal to:
-  - Carry on the business of the firm, OR
-  - Carry it on in partnership
+   - Carry on the business of the firm, OR
+   - Carry it on in partnership
 
 #### Examples
 1. firm dealt in liquor, new law bans liquor sales
