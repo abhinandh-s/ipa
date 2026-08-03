@@ -255,6 +255,7 @@ on post-dissolution rights that overrides Section 53 defaults
  
 The object of this section is to restrain a partner from doing anything which reduces the saleable value of the property, while liquidating.
 
+![section 53 figure](./images/sec-53.svg)
 
 ### Sec. 54 - Agreements in restraint of trade
 
