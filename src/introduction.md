@@ -3,16 +3,16 @@
 ### Sec. 4 - Definitions
 
 partnership
-    : as the relationship between persons who have agreed to share the profits of a business carried on by all or any of them acting for all. 
+  : as the relationship between persons who have agreed to share the profits of a business carried on by all or any of them acting for all. 
 
 partners
-    : is defined as persons, who have entered into partnership with one another are called individually partners. 
+  : is defined as persons, who have entered into partnership with one another are called individually partners. 
 
 firm
-    : is the collective of the partners. 
+  : is the collective of the partners. 
 
 firm name
-    : is the name under which the business is carried on.
+  : is the name under which the business is carried on.
 
 
 #### Essential ingredients for the constitution of a partnership-
