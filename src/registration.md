@@ -112,7 +112,7 @@ The firm cannot sue third parties to enforce a right arising from a contract.
 
 #### 3. No right to Set-off
 
-3. The provisions of sub-sections (1) and (2) shall apply also to claim of set- off or other proceeding to enforce a right arising from contract
+The provisions of sub-sections (1) and (2) shall apply also to claim of set- off or other proceeding to enforce a right arising from contract
 
 > [!EXAMPLE]
 > Suppose an unregistered Firm ABC bought ₹50,000 worth of raw materials from Zayn. Previously Zayn had borrowed ₹20,000 from the firm.<br><br>Now Zayn files a suit to recover his ₹50,000. In this situation, the firm can't set off the ₹20,000 and pay the balance of ₹30,000 to Zayn.<br><br>The firm must pay the full ₹50,000 to Zayn.
