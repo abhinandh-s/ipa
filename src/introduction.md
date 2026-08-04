@@ -30,6 +30,18 @@ Partnership Types
 | Mentioned in agreement at the time of its formation | time period or purpose **is not** mentioned.                                                                                               | time period or purpose **is** mentioned.                                                                     |
 | dissolution                                         | depending upon the will of the partners, can be dissolved by any partner by giving notice to other partners on his desire to quit the firm | automatic dissolution on the expiry of the specific time period or on the completion of the specific purpose |
 
+#### Sec. 7 - Date of dissolution when partner gives notice
+
+On such notice being given, the firm is dissolved from the date mentioned in the notice. If no such date is mentioned, as from the date of communication of the notice.
+
+#### Sec. 7 - Essential ingredients of Partnership at Will
+
+It's not **Partnership at will**, If the partnership deed contains any provision (expressed or implied)
+1. duration of partnership AND
+2. for the determination of the partnership
+
+> In short, Partnership that's not "Particular Partnership" is "Partnership at will"
+
 
 
 ### Types of Partners
