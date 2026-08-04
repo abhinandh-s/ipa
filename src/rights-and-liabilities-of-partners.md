@@ -45,3 +45,17 @@ Change in contract - only by consent(expressed or implied) of all partners.
 > - The Act gives right to every partner to take part in the conduct of the business, only if Partnership deed doesn't contain any counter provisions
 > - Transferees have no business rights under Section 29
 > - a partner is not liable for negligence if he can show that he used such skill and intelligence as he possessed in the conduct of the business.
+
+
+|     | Rights and liabilities                                                    | Default                                                                        | Additional Point                                                                                                                       |
+| :-- | :------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| (a) | Right to Remuneration (salary, commission, etc,.)                         | No                                                                             |                                                                                                                                        |
+| (b) | Right to share profit and losses                                          | Equally                                                                        | Capital contribution ratio doesn't counts here                                                                                         |
+| (c) | Interest on Capital                                                       | No by default. If given, it only can be out of profit                          | stops on dissolution                                                                                                                   |
+| (d) | Interest on Advance[^advance]                                             | @ 6% p.a., whether there way any profit or loss                                | will keep running even after dissolution, stops on the date of payment.                                                                |
+| (e) | Be Indemnified by Firm - for payments made or liabilities incurred by him | 1. in the ordinary and proper conduct of the business                          | 2. on his act, on emergency, as any person would gave done in his own case, under similar circumstances, to protect the firm from loss |
+| (f) | Indemnify the Firm                                                        | For any loss caused to it by willful negligence in the conduct of the business |                                                                                                                                        |
+
+
+
+[^advance]: Advance is treated as loan on which interest has to be paid, rather than increase in his capital.
