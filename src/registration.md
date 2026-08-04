@@ -116,10 +116,7 @@ The firm cannot sue third parties to enforce a right arising from a contract.
 
 > [!EXAMPLE]
 > Suppose an unregistered Firm ABC bought ₹50,000 worth of raw materials from Zayn. Previously Zayn had borrowed ₹20,000 from the firm.
-> 
-​> Now Zayn files a suit to recover his ₹50,000. In this situation, the firm can't set off the ₹20,000 and pay the balance of ₹30,000 to Zayn.
-> 
-> The firm must pay the full ₹50,000 to Zayn.
+> Now Zayn files a suit to recover his ₹50,000. In this situation, the firm can't set off the ₹20,000 and pay the balance of ₹30,000 to Zayn.<br>The firm must pay the full ₹50,000 to Zayn.
 Now, if Zayn is not paying back the ₹20,000, the firm can't sue him either.
 
 > [!NOTE]
