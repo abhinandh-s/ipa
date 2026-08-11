@@ -15,8 +15,8 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Install Rust Toolchain
-        uses: dtolnay/rust-action@stable
+      #- name: Install Rust Toolchain
+      #  uses: dtolnay/rust-action@stable
 
       - name: Install Harper CLI
         run: cargo install harper-cli --locked
