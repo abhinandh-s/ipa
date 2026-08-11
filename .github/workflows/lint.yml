@@ -1,0 +1,26 @@
+name: Check Markdown with Harper
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  harper:
+    name: Lint Markdown Files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install Rust Toolchain
+        uses: dtolnay/rust-action@stable
+
+      - name: Install Harper CLI
+        run: cargo install harper-cli --locked
+
+      - name: Run Harper on Markdown Files
+        run: |
+          find . -name "*.md" -not -path "./.git/*" | xargs harper-cli lint
