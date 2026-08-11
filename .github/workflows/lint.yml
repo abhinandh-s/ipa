@@ -15,12 +15,13 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      #- name: Install Rust Toolchain
-      #  uses: dtolnay/rust-action@stable
-
-      - name: Install Harper CLI
-        run: cargo install harper-cli --locked
+      - name: Download and Install Harper CLI
+        run: |
+          URL="https://github.com/Automattic/harper/releases/latest/download/harper-cli-x86_64-unknown-linux-gnu.tar.gz"
+          curl -LO "$URL"
+          tar -xzf harper-cli-x86_64-unknown-linux-gnu.tar.gz
+          sudo mv harper /usr/local/bin/
 
       - name: Run Harper on Markdown Files
         run: |
-          find . -name "*.md" -not -path "./.git/*" | xargs harper-cli lint
+          find . -name "*.md" -not -path "./.git/*" | xargs harper lint
