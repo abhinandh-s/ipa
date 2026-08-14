@@ -19,3 +19,8 @@ additional-js = [
 [output.html.print]
 enable = true    # include support for printable output
 page-break = false # insert page-break after each chapter
+
+[preprocessor.last-changed]
+optional = true
+command = "mdbook-last-changed"
+renderer = ["html"]
