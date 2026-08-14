@@ -6,6 +6,7 @@ title = "Abhi's guide to Indian Partnership Act, 1932"
 
 [output.html]
 site-url = "/ipa/"
+git-repository-url = "https://github.com/abhinandh-s/ipa"
 mathjax-support = true
 additional-css = [
   "extras/css/comment-box.css",
