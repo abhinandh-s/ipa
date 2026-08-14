@@ -9,11 +9,13 @@ site-url = "/ipa/"
 mathjax-support = true
 additional-css = [
   "extras/css/comment-box.css",
-  "extras/css/custom-callouts.css"
+  "extras/css/custom-callouts.css",
+  "extras/css/last-changed.css",
 ]
-additional-js = [
+additional-js = [ 
+  "extras/js/last-changed.js",
   "extras/js/comment-box.js",
-  "extras/js/custom-callouts.js"
+  "extras/js/custom-callouts.js",
 ]
 
 [output.html.print]
@@ -21,6 +23,5 @@ enable = true    # include support for printable output
 page-break = false # insert page-break after each chapter
 
 [preprocessor.last-changed]
-optional = true
 command = "mdbook-last-changed"
 renderer = ["html"]
