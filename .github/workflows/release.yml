@@ -54,7 +54,7 @@ jobs:
       - name: Run typst bundle
         run: typst compile main.typ dist --format bundle
       
-            - name: Inject Google Tag into HTML files
+      - name: Inject Google Tag into HTML files
         run: |
           TAG_SNIPPET='<script async src="https://www.googletagmanager.com/gtag/js?id=G-NNZCZG2JYD"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-NNZCZG2JYD");</script>'
 
