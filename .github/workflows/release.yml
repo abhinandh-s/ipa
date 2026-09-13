@@ -55,11 +55,10 @@ jobs:
         run: typst compile main.typ dist --format bundle
       
       - name: Inject Google Tag into HTML files
-        run: |
-          TAG_SNIPPET='<script async src="https://www.googletagmanager.com/gtag/js?id=G-NNZCZG2JYD"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-NNZCZG2JYD");</script>'
+  run: |
+    TAG_SNIPPET='<script async src="https://www.googletagmanager.com/gtag/js?id=G-NNZCZG2JYD"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-NNZCZG2JYD");</script>'
 
-          find dist -type f -name "*.html" -exec sed -i "/<head>/a $TAG_SNIPPET" {} +
-
+    find dist -type f -name "*.html" -exec sed -i "0,/<head>/s#<head>#<head>${TAG_SNIPPET}#" {} +
 
       - name: Set up Deno
         uses: denoland/setup-deno@v2
